@@ -30,7 +30,7 @@ The code is written in Python 3 and requires the following packages:
 
 # How to Use
 1. Set up the environment: Ensure all required packages are installed. 
-2. Prepare the data: Place experimental raw data in the rawdata/ folder with the expected naming convention.
+2. Prepare the data: Unzip rawdata.zip to place experimental raw data in the rawdata/ folder with the expected naming convention.
 3. Run the analysis: Execute main.py to perform the data analysis and generate figures. The script will:
  - Load and preprocess raw data
  - Perform statistical analysis
